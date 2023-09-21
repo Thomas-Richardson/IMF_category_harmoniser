@@ -2,7 +2,7 @@
 
 This is a POC I did over 3 days as part of a hackathon for the International Monetary Fund. The hackathon was organised by [DataKind](https://www.datakind.org/). It was completed in close collaboration with [Kelly Butler](https://www.linkedin.com/in/kelly-e-butler/)
 
-The code was originally stored on DataKind's Github, where the commits are.
+The code was originally stored on [DataKind's Github](https://github.com/datakind/imf_datadive_gender/tree/main/workstream1/Ritchie_Kelly_categorization/Streamlit_app), where the commits are.
 
 ## The project
 
